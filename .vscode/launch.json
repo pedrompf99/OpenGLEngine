@@ -1,6 +1,7 @@
 {
     "configurations": [
 
+
         {
             "name": "Windows Launch",
             "type": "cppdbg",
